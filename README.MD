@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="<iframe src="https://giphy.com/embed/Wsju5zAb5kcOfxJV9i" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/keyboard-admin-prtg-Wsju5zAb5kcOfxJV9i">via GIPHY</a></p>" alt="Banner" />
+  <img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" alt="Banner" width="480" height="480" />
 </div>
 
 ## 👋 About Me
-Hi, I'm **Caezario Rafie A Z**, a passionate Fullstack Developer (mostly FrontEnd) and student at Unversitas Dian Nuswantoro !  
+Hi, I'm **Caezario Rafie A Z**, a passionate Fullstack Developer (mostly FrontEnd) and student at Universitas Dian Nuswantoro!  
 I specialize in building scalable and user-friendly web applications using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Next.js**, and more.
 
 I am studying seriously with what I am studying. I hope that in the future my skills will be useful for myself and others!!
