@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/your-banner-image.png" alt="Banner" />
+  <img src="<iframe src="https://giphy.com/embed/Wsju5zAb5kcOfxJV9i" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/keyboard-admin-prtg-Wsju5zAb5kcOfxJV9i">via GIPHY</a></p>" alt="Banner" />
 </div>
 
 ## 👋 About Me
